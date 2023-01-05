@@ -6,4 +6,7 @@ public class webapp {
     //twiter
     // youtube
     //email
+    public static void main(String[] args) {
+         String  str = "afdjjg";
+    }
 }
