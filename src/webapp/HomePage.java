@@ -8,4 +8,7 @@ public class HomePage {
 
 
     // we added more things to home page
+
+
+   // home page finished
 }
