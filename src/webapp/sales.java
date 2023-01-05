@@ -7,4 +7,5 @@ public class sales {
 
     //...
     ///
+     // we updated the holiday sales
 }
